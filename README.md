@@ -14,5 +14,6 @@ I am a Backend Developer focused on building scalable and high-performance syste
 - 📚 **Go Fundamentals:** A comprehensive study of Go internals, concurrency, and pointers.
 
 ### 📬 Connect with me
-- **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-pedro-hernandez-76914830b/
+- **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-bergamasco-76914830b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 - **Email:** jpedro.bergamasco@gmail.com
